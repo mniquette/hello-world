@@ -1,2 +1,3 @@
 # hello-world
-Jusr another repository
+Just another repository
+Fixed a spelling mistake
